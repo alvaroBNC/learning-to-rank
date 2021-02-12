@@ -4,3 +4,4 @@
 .cache
 **pyc
 **greedy_out.txt
+.rankingvenv/
